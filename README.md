@@ -1,5 +1,7 @@
 # Bloo
 
+[![Build Status](https://drone.io/github.com/hjr265/bloo/status.png)](https://drone.io/github.com/hjr265/bloo/latest)
+
 Bloo is a simple blob storage service implemented in Go.
 
 ## Installation
